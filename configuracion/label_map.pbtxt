@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'electrodomesticos'
+}
+
+item {
+  id: 2
+  name: 'Tanque'
+}
+
+item {
+  id: 3
+  name: 'llanta'
+}
+
+item {
+  id: 4
+  name: 'Botella'
+}
